@@ -2,7 +2,7 @@ GRstarred2html
 ==============
 
 Turn Google Reader starred.json to html by jQuery
-(Possible to paste on Evernote)
+(To paste on Evernote)
 
 How to use
 ==========
